@@ -1,0 +1,1 @@
+# Northwind_Ayl-k_Has-lat_Analizi_Python
