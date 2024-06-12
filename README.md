@@ -4,7 +4,7 @@
 
 # Projede neler yapılmış? 📝
 
-Bu projede Northwind Şirketine ait veriler ay bazında incelenmiş ve
+Bu projede Northwind Şirketine ait veriler ay bazında incelendi. Detayları aşağıda bulabilirsiniz. 👇
 
   # 👉 **Aylara göre sipariş sayıları**  ⤵️
 
